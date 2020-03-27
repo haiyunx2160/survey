@@ -65,6 +65,7 @@
       <change beforePath="$PROJECT_DIR$/../../../Optical character recognition/ocr_process.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Optical character recognition/phpinfo.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Optical character recognition/read me.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../my-website/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my-website/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../my-website/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my-website/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../my-website/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my-website/build/asset-manifest.json" afterDir="false" />
@@ -185,8 +186,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -201,7 +202,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -271,18 +272,17 @@
       <updated>1585318765026</updated>
       <workItem from="1585318767823" duration="1464000" />
       <workItem from="1585320726571" duration="48000" />
-      <workItem from="1585320832471" duration="311000" />
+      <workItem from="1585320832471" duration="1383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1823000" />
+    <option name="totallyTimeSpent" value="2895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14235377" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14235377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -296,7 +296,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33049646" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33049646" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -322,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

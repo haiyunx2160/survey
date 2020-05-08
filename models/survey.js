@@ -14,4 +14,4 @@ const surveySchema = new Schema({
   dateResponded: Date,
 });
 
-mongoose.model('Sueveys', surveySchema);
+mongoose.model('Surveys', surveySchema);
